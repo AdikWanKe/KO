@@ -85,7 +85,7 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 #EXTINF:-1 group-title="Malaysia" ch-number="11" ch-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
-https://tv.jnda.tech/SWvPk/wtor9h/l.mpd
+https://tv.jnda.tech/imJZR/wtor9h/l.mpd
 
 
 EXTINF:-1 group-title="Malaysia" ch-number="12" ch-id="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
@@ -103,7 +103,7 @@ https://linearjitp-playback.astro.com.my/vsg/41LfSXPqMpKUTq_TT0-eOkBJlSrW5aZvbuP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 #EXTINF:-1 group-title="Malaysia" ch-number="12" ch-id="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
-https://tv.jnda.tech/SWvPk/6c5gtx/l.mpd
+https://tv.jnda.tech/imJZR/6c5gtx/l.mpd
 
 
 #EXTINF:-1 group-title="Malaysia" ch-number="13" ch-id="AstroOasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
@@ -125,7 +125,7 @@ https://shorturl.at/jsyDX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 #EXTINF:-1 group-title="Malaysia" ch-number="14" ch-id="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
-https://tv.jnda.tech/SWvPk/1dxji85/l.mpd
+https://tv.jnda.tech/imJZR/1dxji85/l.mpd
 
 EXTINF:-1 group-title="Malaysia" ch-number="15" ch-id="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -137,7 +137,7 @@ https://shorturl.at/pszP4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 #EXTINF:-1 group-title="Malaysia" ch-number="15" ch-id="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
-https://tv.jnda.tech/SWvPk/6axbhh/l.mpd
+https://tv.jnda.tech/imJZR/6axbhh/l.mpd
 
 #EXTINF:-1 tvg-id="410" tvg-name="Astro Premier" group-#EXTINF:-1 group-title="Malaysia" ch-number="16" ch-id="AstroPremier" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png", ASTRO PREMIER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -196,7 +196,7 @@ https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTVLCOPT:http-referrer="https://awesometv.my/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://awesometv.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://awesometv.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
-https://tv.jnda.tech/SWvPk/hz8q1x/l.m3u8
+https://tv.jnda.tech/imJZR/hz8q1x/l.m3u8
 
 
 #EXTINF:-1 group-title="Malaysia" ch-number="4" ch-id="OKEY" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png", OKEY
