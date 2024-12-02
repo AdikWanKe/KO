@@ -133,12 +133,6 @@ https://shorturl.at/pszP4
 #EXTINF:-1 group-title="Malaysia" ch-number="15" ch-id="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 https://tv.jnda.tech/SWvPk/6axbhh/l.mpd
 
-#EXTINF:-1 tvg-id="410" tvg-name="Astro Premier" group-#EXTINF:-1 group-title="Malaysia" ch-number="16" ch-id="AstroPremier" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png", ASTRO PREMIER
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
-
 
 #EXTINF:-1 group-title="Malaysia" ch-number="17" ch-id="AstroRania" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
