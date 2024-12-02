@@ -184,6 +184,9 @@ https://tv.jnda.tech/SWvPk/hz8q1x/l.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
+#EXTINF:-1 group-title="Malaysia" ch-number="4" ch-id="OKEY" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png", OKEY (RTM)
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+
 #EXTINF:-1 group-title="Malaysia" ch-number="4" ch-id="OKEY" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png", OKEY (Sooka)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
