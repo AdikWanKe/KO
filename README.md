@@ -1,1 +1,2 @@
 
+Jangan guna config ini.
