@@ -1323,3 +1323,6 @@ https://yrwo6l2a.sw-cdnstream.com/hls2/01/02200/thspdio1drs3_h/index-v1-a1.m3u8?
 
 #EXTINF:-1 group-title="Movies" ch-number="2000" tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png",Classic Cinema (240p) [Not 24/7]
 https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 group-title="Movies" ch-number="2001"  tvg-id="ClassicMoviesChannel.us" tvg-logo="https://i.imgur.com/pQJxov2.png",Classic Movies Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
