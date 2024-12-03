@@ -1,2 +1,1 @@
-
-Jangan guna config ini.
+ada yang guna kan dah kena delete
